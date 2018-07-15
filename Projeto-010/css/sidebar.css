@@ -1,0 +1,79 @@
+body {
+  background-color:#f5f8f9;
+  height: 100pc;
+  font-family: 'Lato', sans-serif !important;
+}
+aside {
+  background-color:#3a3c40;
+  text-align: center;
+  padding-top: 50px !important;
+}
+
+aside img {
+  width: 140px;
+  height: 140px;
+  border-radius: 3px;
+}
+
+aside h1 {
+  color: #f5a623;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+aside h2{
+  color: #fff;
+  font-size: 1em;
+  font-weight: 700;
+}
+
+aside .button {
+  background-color: #f5a623 !important;
+  text-transform: uppercase;
+  font-size: 0.875em;
+  padding: 20px 30px 20px 30px;
+  font-weight: 700;
+  margin-top: 10px;
+  box-shadow: 0px 4px 0px 0px rgba(245, 166, 35, 0.6)
+} 
+
+aside .redes-sociais {
+  margin-top: 20px;
+}
+
+aside .redes-sociais li{
+  display: inline;
+  margin-right: 5px;
+}
+
+aside .redes-sociais li i{
+  color: #fff;
+  font-size: 30px;
+}
+
+aside .habilidades {
+  text-align: left;
+  margin-top: 30px;
+}
+
+aside .habilidades h3 {
+  color: #eeeeee;
+  font-weight: 700;
+  font-size: 1em;
+}
+
+aside .habilidades small {
+  color: #8fa4af;
+  font-size: 0.750em;
+}
+
+aside .habilidades progress {
+  margin-bottom: 5px;
+}
+
+
+aside .habilidades progress::-webkit-progress-value {
+  background-color: #eeb65a !important;
+}
+

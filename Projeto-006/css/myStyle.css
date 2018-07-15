@@ -1,0 +1,36 @@
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+body container {
+  width: 960px;
+  position: absolute;
+  text-align: center;
+}
+
+h1 {
+  background-image: url('/Projeto-006/img/logo-playcode.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+ h1 span {
+   visibility: hidden;
+ }
+
+ .card {
+   width: 320px;
+   text-align: center;
+ }
+
+ .card img {
+   width: 100%;
+ }
+
+ .card h2 {
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto', sans-serif;
+  color: #4a4a4a;
+  text-transform: uppercase;
+ } 
